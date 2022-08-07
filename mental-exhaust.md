@@ -1,4 +1,6 @@
-I think of thoughts as exhaust. You can capture your thoughts in the form of taking [notes](https://github.com/wepsree/substack/blob/main/Coming%20Soon.md) so you can reuse them at a later time. Or you can just let your ideas go into the ether, but that may preclude them from compounding on one another.
+# Mental Exhaust
+
+I think of thoughts as exhaust. You can capture your thoughts in the form of taking [notes](https://github.com/wepsree/substack/blob/main/coming-soon.md) so you can reuse them at a later time. Or you can just let your ideas go into the ether, but that may preclude them from compounding on one another.
 
 In material science, there's a saying that there are no bad materials just poor applications. So even if you have a mundane idea, it may still be worth noting since it could be applied to seemingly unrelated fields.
 
